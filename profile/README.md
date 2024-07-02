@@ -2,7 +2,7 @@
 
 Welcome to FluentCI 🚀
 
-FluentCI is dedicated to simplifying Continuous Integration (CI) workflows. We provide a suite of tools and resources designed to streamline you CI processes,
+FluentCI is dedicated to simplifying Continuous Integration (CI) workflows. We provide a suite of tools and resources designed to streamline your CI processes,
 making it easier to build,test and deploy your applications efficiently. Start prototyping your CI from your local machine and run on any CI provider later.
 
 ### What We Offer
